@@ -23,8 +23,7 @@ latest_principal_balance = round((principal - balance_applied_toPrincipal),2)
 next_min_payment_amount = round(((latest_principal_balance * apr / 100) / 26 + lp),2)
 
 #output formatting
-receipt_content = f"""
-From,
+receipt_content = f"""From,
 XXX Financials
 Vancouver
 
