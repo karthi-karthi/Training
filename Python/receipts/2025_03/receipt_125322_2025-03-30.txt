@@ -1,0 +1,23 @@
+
+From,
+XXX Financials
+Vancouver
+
+To,
+O'Connor, John
+123 Main St - unit 203,
+Vancouver,
+BC,
+Canada V4X3A2
+
+Dear John,
+
+We have received the payment of $round(payment_amount,2) on 2025-03-30. Thank you for your payment. Attached is the breakdown of your payment.
+
+Interest paid = $66.35
+Loan Protection Premium = $12.50
+Total mandatory amount = $78.85
+Balance (applied to principal) = $21.15
+Latest Principal balance = $4978.85
+
+Next minimum payment amount = $78.57
